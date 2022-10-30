@@ -82,6 +82,10 @@ h1, h2, h3, h4, p {
     background-image: url("images/cheers.gif");
 }
 
+#gift-img-children:hover {
+    background-image: url("images/children.gif");
+}
+
 #footer {
     font-style: italic;
     width: 400px;
